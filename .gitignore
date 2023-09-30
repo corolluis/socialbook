@@ -1,0 +1,9 @@
+
+# Environments
+.venv
+myvenv/
+ENV/
+
+
+#bbdd
+social_book/db.sqlite3
